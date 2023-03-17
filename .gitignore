@@ -1,0 +1,32 @@
+# Dossiers générés par IntelliJ IDEA
+.idea/
+
+# Les fichiers de build générés par Gradle
+/build/
+
+# Les fichiers temporaires et de cache générés par Kotlin
+.gradle/
+build/
+
+# Les fichiers de configuration local de Kotlin
+/local.properties
+
+# Les fichiers de sauvegarde automatique
+*~
+
+# Les fichiers de log
+*.log
+
+# Les fichiers de documentation générés
+/build/docs/
+
+# Les fichiers de dépendances téléchargées
+/.idea/libraries/
+
+# Autres
+gradlew
+gradlew.bat
+settings.gradle
+build.gradle
+gradle/
+
